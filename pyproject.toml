@@ -1,0 +1,9 @@
+[project]
+name = "craigslist-scraper"
+
+[build-system]
+requires = [
+    "setuptools>=49",
+    "wheel"
+]
+build-backend = "setuptools.build_meta"
